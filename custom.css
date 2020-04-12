@@ -1,0 +1,108 @@
+body {
+    box-sizing: none;
+    background: url("assets/images/spikes.png");
+    line-height: 34px;
+    font-size: 18px;
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+}
+
+.navi {
+  
+   font-size: auto;
+    height:120%;
+    
+    color: grey;
+    background-color: #ffffff;
+    box-sizing: none;
+    
+}
+.abouts {
+    background-color: #ffffff;
+    font-size: 18px;
+    padding: 20px;
+    margin: 20px;
+}
+ 
+.line {
+    height: 5px;
+   background-color: gray;
+    margin: 20px 0px 20px 1px;
+    z-index: 100;
+}
+
+#banner {
+   display: block;
+   padding: 5% 10%;
+   font-size: 120%;
+    color: white;
+    background-color: #4aaaa5;
+    text-align: center;
+    font-family:'Georgia', Times, Times New Roman, serif;
+    width: ;
+
+
+}
+h2, h4 {
+    color: #4aaaa5;
+    line-height: 1;
+    font-family:'Georgia', Times, Times New Roman, serif;
+}
+
+.navis {
+   padding: 0;
+   right: 0;
+   text-align: center;
+   
+    text-decoration: none;
+    color: grey;
+}
+/* .tags { */
+    /* padding-bottom: 20px; */
+    /* margin-bottom: 15px; */
+    /* line-height: 22px; */
+    /* border-bottom: 2px solid #eeeeee; */
+  /* } */
+  
+  .imgs {
+  display: inline-block;
+  position: relative;
+    opacity: 0.8;
+    margin: 20px;
+  }
+  
+  .tags {
+    display: block;
+    position: absolute;
+    
+    bottom: 7%;
+
+    font-weight: 300;
+   width:210px;
+    color: #ffffff;
+    text-align: center;
+    background: #4aaaa5;
+   
+  }
+/*  */
+
+  footer {
+   
+
+    padding: 5px 15px;
+   
+    font-size: 12px;
+    color: #ffffff;
+    
+    text-align: center;
+    background: #666666;
+    border-top: 8px solid #4aaaa5;
+    height: 60px;
+    margin-top: 500px;
+}
+.contact {
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    background-color: ffffff;
+}
