@@ -39,7 +39,6 @@ body {
     background-color: #4aaaa5;
     text-align: center;
     font-family:'Georgia', Times, Times New Roman, serif;
-    width: ;
 
 
 }
@@ -57,19 +56,6 @@ h2, h4 {
     text-decoration: none;
     color: grey;
 }
-/* .tags { */
-    /* padding-bottom: 20px; */
-    /* margin-bottom: 15px; */
-    /* line-height: 22px; */
-    /* border-bottom: 2px solid #eeeeee; */
-  /* } */
-  
-  .imgs {
-  display: inline-block;
-  position: relative;
-    opacity: 0.8;
-    margin: 20px;
-  }
   
   .tags {
     display: block;
@@ -84,7 +70,6 @@ h2, h4 {
     background: #4aaaa5;
    
   }
-/*  */
 
   footer {
    
@@ -98,7 +83,7 @@ h2, h4 {
     background: #666666;
     border-top: 8px solid #4aaaa5;
     height: 60px;
-    margin-top: 500px;
+    margin-top: 10%;
 }
 .contact {
     display: inline-block;
